@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tester</title>
+</head>
+<style>
+    
+
+    #desktop-nav {
+        display: flex;
+        position: sticky;
+        top: 0;
+        background-color: pink;
+        height: 15vh;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 1000;
+    }
+
+    section {
+    height: 85vh; /*with nav height 15vh*/
+}
+
+#profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    height: 85vh;
+}
+
+#one {
+ background-color: aquamarine;
+}
+
+#two {
+ background-color: blue;
+}
+</style>
+<body>
+    
+ <nav id="desktop-nav">
+    nav
+ </nav>
+ <section id="profile">
+    <div id="one">item 1</div>
+    <div id="two">item 2</div>
+ </section>
+</body>
+</html>
