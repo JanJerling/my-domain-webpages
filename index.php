@@ -2,7 +2,7 @@
 	<head>
 		<title>Petra Jerling - Music Therapy</title>
 		<!--================== META  ===============================================================================================================!-->
-		<meta name="description" content="Petra Jerling is a qualified Music Therapist practicing in Strand, Western Cape. Her degrees in Music Education, Psychology and Music Therapy, along with her extensive experience in these fields, enables her to bring healing to those who are most in need of it. By harnessing the power of music, this sophisticated and nuanced therapy can change the lives of any and all." />
+		<meta name="description" content="Petra Jerling is a qualified Music Therapist practicing in Gamtoos Mouth, Eastern Cape. Her degrees in Music Education, Psychology and Music Therapy, along with her extensive experience in these fields, enables her to bring healing to those who are most in need of it. By harnessing the power of music, this sophisticated and nuanced therapy can change the lives of any and all." />
 		<meta name="keywords" content="Music Therapy, music therapist, music, therapy, petra, jerling, musiekterapie, musiek, terapie, terapeet, Guided Imagery In Music, GIM, Positive Psychology, psychology, Mandala Assessment Research Instrument, MARI, community, group therapy, individual help, mental health" />
 		<meta http-equiv="author" content="Jan Jerling" />
 		<meta http-equiv="content-language" content="en-ZA" />
